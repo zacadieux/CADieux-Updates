@@ -1,0 +1,8 @@
+{
+ "build": 508,
+ "version": "1.6.10",
+ "html": "cadieux.html.enc",
+ "enc": "aes-256-gcm",
+ "sha256": "b4a467317e90d6391df81ef38a43403ee73f47f0ed62db56392e77c62944481d",
+ "notes": "Light theme is now the default. Encrypted updates."
+}
