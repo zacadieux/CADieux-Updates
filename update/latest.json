@@ -1,8 +1,8 @@
 {
- "build": 511,
- "version": "1.8.0",
+ "build": 512,
+ "version": "1.8.1",
  "html": "cadieux.html.enc",
  "enc": "aes-256-gcm",
- "sha256": "a6e6a41dab00475865e8e68f3e0fea8ddfba2efd2669a94c5a24dbdf99024e17",
- "notes": "Site and setbacks, notes, cost estimate, electrical symbols, walk-through, DXF and OBJ export, elevations sheet, copy and paste."
+ "sha256": "8f356e505e693a0c8d652b1a0f9af83ff3db92a44235c8decb604e66159e67bc",
+ "notes": "Sign-in screen no longer refreshes, plus all 1.8.0 features."
 }
